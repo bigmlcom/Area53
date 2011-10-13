@@ -9,8 +9,8 @@ A python interface for AWS Route53.
 Run these commands to install:
 
 ```bash
-git clone git://github.com/bluepines/area53.git
-cd area53
+git clone git://github.com/mariusv/Area53.git
+cd Area53
 sudo python setup.py install
 ```
 
